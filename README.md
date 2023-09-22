@@ -9,7 +9,7 @@ The goal of this project is to implement predictive maintenance, also known as c
 <br>o	"Air temperature [K]": Air temperature in Kelvin.
 <br>o	"Process temperature [K]": Process temperature in Kelvin.
 <br>o	"Rotational speed [rpm]": Rotational speed in revolutions per minute.
-<br>br>o	"Torque [Nm]": Torque in Newton-meters.
+<br>o	"Torque [Nm]": Torque in Newton-meters.
 <br>o	"Tool wear [min]": Accumulated tool wear in minutes.
 <br>o	"Target": The target variable representing the failure type.
 ## Regression Models:
