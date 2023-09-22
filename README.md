@@ -1,9 +1,9 @@
 # PREDICTIVE MAINTENANCE
 •	The goal of this project is to implement predictive maintenance, also known as condition-based maintenance. This approach involves continuously monitoring the performance and condition of equipment during regular operations to reduce the likelihood of unexpected breakdowns.
 ## Dataset and Variables:
-•	The analysis uses a Kaggle dataset with 10,000 entries.
-•	The target variable is "failure type," which likely represents different categories of equipment failures.
-•	Several independent variables are used to predict failure types:
+<br>•	The analysis uses a Kaggle dataset with 10,000 entries.
+<br>•	The target variable is "failure type," which likely represents different categories of equipment failures.
+<br>•	Several independent variables are used to predict failure types:
 o	"Product ID": Identifies the product.
 o	"Type": Indicates the type of equipment.
 o	"Air temperature [K]": Air temperature in Kelvin.
